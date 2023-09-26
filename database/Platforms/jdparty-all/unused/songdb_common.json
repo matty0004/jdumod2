@@ -1,0 +1,209 @@
+{
+    "BringMeToLife": {
+        "assets": {
+            "coach1ImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119505308092469378/Bringmetolife_coach_1.png",
+            "coach2ImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119505396294496316/Bringmetolife_coach_2.png",
+            "coverImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/ZoobyDoo/nx/ZoobyDoo_Cover_Generic.tga.ckd/cc0ca69ba8065f0c424b84ec13467f6b.ckd",
+            "cover_1024ImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/ZoobyDoo/nx/ZoobyDoo_Cover_1024.tga.ckd/dec8c1bce8ef36f87c3dc4df457a0867.ckd",
+            "cover_smallImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/ZoobyDoo/nx/ZoobyDoo_Cover_Online.tga.ckd/af47aafbb67bc197185cc8bd5f28933f.ckd",
+            "expandBkgImageUrl": "",
+            "expandCoachImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119503849879773204/image.png",
+            "map_bkgImageUrl": "https://media.discordapp.net/attachments/1119503808653959218/1119504817044328508/latest.png",
+            "phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119505308092469378/Bringmetolife_coach_1.png",
+            "phoneCoach2ImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119505396294496316/Bringmetolife_coach_2.png",
+            "phoneCoverImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/ZoobyDoo/ZoobyDoo_Cover_Phone.jpg/18ae78589ea8423479a34bcc029808f3.jpg",
+            "videoPreviewVideoURL": "https://jdcn-switch.cdn.ubisoft.cn/public/map/ZoobyDoo/ZoobyDoo_VideoPreview.webm/f238591702f6ff6081dfc61d7132a98a.webm"
+        }
+    },
+    "ZoobyDoo": {
+        "assets": {
+            "coach1ImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119557492284866570/Zoobydoo_coach_1.png",
+            "coach2ImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119557513973616650/Zoobydoo_coach_2.png",
+            "coverImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119557383753048136/Zoobydoo_jdc_cover_generic.png",
+            "coverKidsImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119557383753048136/Zoobydoo_jdc_cover_generic.png",
+            "coverKids_smallImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119557383753048136/Zoobydoo_jdc_cover_generic.png",
+            "cover_1024ImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119557205193134080/Zoobydoo_cover.png",
+            "cover_smallImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119557383753048136/Zoobydoo_jdc_cover_generic.png",
+            "expandBkgImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119557438568398908/Zoobydoo_map_bkg.png",
+            "expandCoachImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119557413176098896/Zoobydoo_jdc_cover_albumcoach.png",
+            "map_bkgImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119557438568398908/Zoobydoo_map_bkg.png",
+            "phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119557492284866570/Zoobydoo_coach_1.png",
+            "phoneCoach2ImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119557513973616650/Zoobydoo_coach_2.png",
+            "phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119557383753048136/Zoobydoo_jdc_cover_generic.png"
+        }
+    },
+    "WetTennis": {
+        "assets": {
+            "coach1ImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119570014022930462/Wettennis_jdc_coach_1.png",
+            "coach2ImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119570014345900062/Wettennis_jdc_coach_2.png",
+            "coverImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119570012655583253/Wettennis_jdc_cover_generic.png",
+            "coverKidsImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119570012655583253/Wettennis_jdc_cover_generic.png",
+            "coverKids_smallImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119570013045657640/185.png",
+            "cover_1024ImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119570012303274114/WetTennis_Cover_2x.png",
+            "cover_smallImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119570013045657640/185.png",
+            "expandBkgImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119570013674799144/WetTennis_map_bkg.png",
+            "expandCoachImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119570013326684261/Wettennis_jdc_albumcoach.png",
+            "map_bkgImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119570013674799144/WetTennis_map_bkg.png",
+            "phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119570014022930462/Wettennis_jdc_coach_1.png",
+            "phoneCoach2ImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119570014345900062/Wettennis_jdc_coach_2.png",
+            "phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119570013045657640/185.png"
+        }
+    },
+    "WannabeItzyALT": {
+        "assets": {
+            "coach1ImageUrl": "",
+            "coverImageUrl": "",
+            "coverKidsImageUrl": "",
+            "coverKids_smallImageUrl": "",
+            "cover_1024ImageUrl": "",
+            "cover_smallImageUrl": "",
+            "expandBkgImageUrl": "",
+            "expandCoachImageUrl": "",
+            "map_bkgImageUrl": "",
+            "phoneCoach1ImageUrl": "",
+            "phoneCoverImageUrl": ""
+        }
+    },
+    "WalkingOnSunshine": {
+        "assets": {
+            "banner_bkgImageUrl": "",
+            "coach1ImageUrl": "",
+            "coverImageUrl": "",
+            "coverKidsImageUrl": "",
+            "coverKids_smallImageUrl": "",
+            "cover_1024ImageUrl": "",
+            "cover_smallImageUrl": "",
+            "expandBkgImageUrl": "",
+            "expandCoachImageUrl": "",
+            "map_bkgImageUrl": "",
+            "phoneCoach1ImageUrl": "",
+            "phoneCoverImageUrl": ""
+        }
+    },
+    "ToxicNextALT": {
+        "assets": {
+            "banner_bkgImageUrl": "",
+            "coach1ImageUrl": "",
+            "coverImageUrl": "",
+            "coverKidsImageUrl": "",
+            "coverKids_smallImageUrl": "",
+            "cover_1024ImageUrl": "",
+            "cover_smallImageUrl": "",
+            "expandBkgImageUrl": "",
+            "expandCoachImageUrl": "",
+            "map_bkgImageUrl": "",
+            "phoneCoach1ImageUrl": "",
+            "phoneCoverImageUrl": ""
+        }
+    },
+    "ToxicNext": {
+        "assets": {
+            "coach1ImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119559623855317053/Toxicnext_coach_1.png",
+            "coverImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119559727555297381/Toxicnext_jdc_cover_generic.png",
+            "coverKidsImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119559727555297381/Toxicnext_jdc_cover_generic.png",
+            "coverKids_smallImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119559727949566013/256.png",
+            "cover_1024ImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119559918102511687/Toxicnext_cover_1024.png",
+            "cover_smallImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119559727949566013/256.png",
+            "expandBkgImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119559887874175077/Toxicnext_map_bkg.png",
+            "expandCoachImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119559797633720400/Toxicnext_jdc_albumcoach.png",
+            "map_bkgImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119559887874175077/Toxicnext_map_bkg.png",
+            "phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119559623855317053/Toxicnext_coach_1.png",
+            "phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119559727949566013/256.png"
+        }
+    },
+    "Toxic": {
+        "assets": {
+            "coach1ImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119561344383979550/Toxic_coach_1_big_now.png",
+            "coverImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119561346275618907/Toxic_jdc_cover_generic.png",
+            "coverKidsImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119561346275618907/Toxic_jdc_cover_generic.png",
+            "coverKids_smallImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119561345801654272/256.png",
+            "cover_1024ImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119561345512255569/Toxic_cover.png",
+            "cover_smallImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119561345801654272/256.png",
+            "expandBkgImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119561345080234065/Toxic_map_bkg.png",
+            "expandCoachImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119561344744697896/Toxic_jdc_cover_albumcoach.png",
+            "map_bkgImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119561345080234065/Toxic_map_bkg.png",
+            "phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119561344383979550/Toxic_coach_1_big_now.png",
+            "phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1119503808653959218/1119561345801654272/256.png"
+        }
+    },
+    "SweetButPsycho": {
+        "assets": {
+            "banner_bkgImageUrl": "",
+            "coach1ImageUrl": "",
+            "coverImageUrl": "",
+            "coverKidsImageUrl": "",
+            "coverKids_smallImageUrl": "",
+            "cover_1024ImageUrl": "",
+            "cover_smallImageUrl": "",
+            "expandBkgImageUrl": "",
+            "expandCoachImageUrl": "",
+            "map_bkgImageUrl": "",
+            "phoneCoach1ImageUrl": "",
+            "phoneCoverImageUrl": ""
+        }
+    },
+    "StayALT": {
+        "assets": {
+            "banner_bkgImageUrl": "",
+            "coach1ImageUrl": "",
+            "coverImageUrl": "",
+            "coverKidsImageUrl": "",
+            "coverKids_smallImageUrl": "",
+            "cover_1024ImageUrl": "",
+            "cover_smallImageUrl": "",
+            "expandBkgImageUrl": "",
+            "expandCoachImageUrl": "",
+            "map_bkgImageUrl": "",
+            "phoneCoach1ImageUrl": "",
+            "phoneCoverImageUrl": ""
+        }
+    },
+    "Stay": {
+        "assets": {
+            "banner_bkgImageUrl": "",
+            "coach1ImageUrl": "",
+            "coverImageUrl": "",
+            "coverKidsImageUrl": "",
+            "coverKids_smallImageUrl": "",
+            "cover_1024ImageUrl": "",
+            "cover_smallImageUrl": "",
+            "expandBkgImageUrl": "",
+            "expandCoachImageUrl": "",
+            "map_bkgImageUrl": "",
+            "phoneCoach1ImageUrl": "",
+            "phoneCoverImageUrl": ""
+        }
+    },
+    "SissyThatWalk": {
+        "assets": {
+            "banner_bkgImageUrl": "",
+            "coach1ImageUrl": "",
+            "coverImageUrl": "",
+            "coverKidsImageUrl": "",
+            "coverKids_smallImageUrl": "",
+            "cover_1024ImageUrl": "",
+            "cover_smallImageUrl": "",
+            "expandBkgImageUrl": "",
+            "expandCoachImageUrl": "",
+            "map_bkgImageUrl": "",
+            "phoneCoach1ImageUrl": "",
+            "phoneCoverImageUrl": ""
+        }
+    },
+    "RatherBe": {
+        "assets": {
+            "banner_bkgImageUrl": "",
+            "coach1ImageUrl": "",
+            "coverImageUrl": "",
+            "coverKidsImageUrl": "",
+            "coverKids_smallImageUrl": "",
+            "cover_1024ImageUrl": "",
+            "cover_smallImageUrl": "",
+            "expandBkgImageUrl": "",
+            "expandCoachImageUrl": "",
+            "map_bkgImageUrl": "",
+            "phoneCoach1ImageUrl": "",
+            "phoneCoverImageUrl": ""
+        }
+    }
+}
